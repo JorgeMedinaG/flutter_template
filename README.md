@@ -28,7 +28,7 @@ End with a few screenshots
 
 ## Authors
 
-* ** Koombea ** - [koombea.com](https://www.koombea.com/)
+* **Koombea** - [koombea.com](https://www.koombea.com/)
 
 <!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->
 
