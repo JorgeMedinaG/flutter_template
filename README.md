@@ -22,15 +22,15 @@ End with a few screenshots
 
 ## Built with
 
-* [Swift 4.2](https://developer.apple.com/swift/) - The programming language used
-* VIPER - Design Pattern
+* [Dart 2.14.4](https://dart.dev/) - The programming language used
+* Clean Architecture - Design Pattern
 * No external libraries were used in this project
 
 ## Authors
 
-* **Luís Vieira** - [lsvra.com](https://lsvra.com)
+* ** Koombea ** - [koombea.com](https://www.koombea.com/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+<!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->
 
 ## License
 
